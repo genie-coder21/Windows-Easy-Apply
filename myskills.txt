@@ -1,0 +1,138 @@
+jira
+service now
+redhat satellite
+redhat
+red hat satellite
+clamav
+docker
+kubernetes
+k8
+rancher
+splunk
+zabbix
+salt
+saltstack
+puppet
+ansible
+pam
+ldap
+rhev
+git
+svn
+hypervisors
+bamboo
+vmware
+aws
+amazon web service
+azure
+stig
+ec2
+s3
+vpc
+github
+gitlab
+san
+commvault
+axway
+rhev
+rhel
+rpm’s
+servers
+aws terraform
+documentation
+microsoft excel
+microsoft word
+xml
+ansible
+chef
+open source
+csv
+rest api
+confluence
+mysql
+postgres
+apache
+nginx
+tensorflow
+pytorch
+cuda
+soup
+threading
+chunks
+subprocessing
+ruby
+golang
+yaml
+bash
+json
+perl
+python
+batch
+powershell
+deployments
+configurations
+management
+installation
+sla
+integration
+ssl
+encryption
+migration
+software development
+backups
+monitoring
+virtualization
+containerization
+automation
+administration
+group policy
+java
+javascript
+compliance
+security
+scripting
+customization
+implementation
+documentation
+ci/cd pipeline
+agile
+scrum
+design
+transformation
+cloud
+consulting
+system engineering
+devops
+architecture
+linux
+windows
+ubuntu
+centos
+red hat
+sop’s
+root cause analysis
+mentorship
+embedding
+communication
+continuous delivery
+scaling
+debugging
+customer support
+storage
+cots
+bug fixes
+modifications
+cloning
+operations
+dhcp
+dns
+tcp
+ip
+methodology
+problem solving
+continuous integration
+architectural design
+iaas
+qa
+quality assurance
+testing

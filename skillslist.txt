@@ -1,0 +1,15 @@
+No Travel Required
+software development lifecycle
+Terraform
+Windows and Linux
+Terraform/Ansible
+DevOps
+AWS
+maintaining DevOps tool sets including
+Docker/ Kubernetes-Opeshift/ROSA
+Jenkins/Cloudbees
+Python
+Groovy
+Bourne shell
+or PowerShell
+healthcare environment
