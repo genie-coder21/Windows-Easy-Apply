@@ -1,48 +1,51 @@
 Hi, User.... 
 
-I'v created the program to allow you to quickly search for jobs.
-Auto Apply Dice is extremely customizable and efficient in completing Easy Apply applications on Dice.com
+This program allows you to automatically easy apply to jobs in as little as 30 seconds all day night and weekend. With no need for monitoring.
+It also can tailor resumes, and coverletters which are optional features.
+Easy Apply Dice Bot is extremely customizable and efficient in completing Easy Apply applications on Dice.com
 There currently is no gui for the software but one will be coming soon.
 
 Before you First run there are a few things you need to do...
-Sign into Dice.com on you chrome web browser.
-identify which Icon, and window youd like to use for Easy Apply Application to utilize. 
-"Icon as in where is chrome on your taskbar." 
-"Window as when you hover over the chrome icon which window is it using...
-Doing a Dry Run to make sure that if you need to upload a document using the Easy Apply Application software ensure that the upload location is the same location where your Resume and or Coverletter are.
-if your not using stacked windows on your windows machine just set it to zero" 
-If you dont want Easy Apply Application to run through all search results you can do searches manually create tabs yourself and start the software.
-IF you want to let it run through all possible jobs based on keywords. And run all night or day thats fine too.
+Setup is easy and simple... Setup should take no longer then 30 mins, once setup you never have to touch or make changes again.
 
-Easy Apply Application identifies what screen is currently active before each run, and restarts each time the run is over.
-Set up the Keywords file in the working directory (where ever you have the program stored) and add key words.. you can add as many keywords as you'd like.
-Runs complete based on tasks, and errors.
-Customize mode is for customizing your Resume and or coverletter...
-Easy Apply Application has many modes to mix and match any users needs...
-Customizing the resume just means it will hide the Job in your Resume some where to trick the automated system that screens resumes on dice.
-it will also add the skills list to that list.
-Customizing Coverletter will add the skills list from the job description on the web page in a location of your choosing spaced by commas.
-as well as the recruiters name, the Job Position, and Company Name. Each need to be Unique, and absolute where you want to put them.
-Each Customization is done by a search and replace. It only works with docx files and can convert them into PDF's...
-Customization works by creating a new docx file with the changes and then converting that docx file to PDF... if you dont want PDF type no pdf in the settings.ini file.
+Features include:
+1. Auto Searching For Jobs based on your list of keywords and phrases
+2. Tailoring resumes, based on job description and skills required.
+    2a. Resumes are tailored based on your skills you've selected.
+3. Tailoring Coverletters based on job description and skills required.
+    3a. Coverletters are tailored based on your skills you've selected.
+4. Headless mode...
+    4a. Run your entire job search in the background. No WebBrowser Visible, so you can continue to use you computer as needed.
+5. Docx to PDF format
+6. Resumes are stored for recall for when you get an interview and need to know what was on the resume you sent the company.
+7. Search Job locations, Remote work, or Specific City.
+8. Search Jobs Based on how old the job posting is.
+  8a. Option include One day, 7 days, and 30 days.
+9. Adding Hiring Managers name to Coverletter if its available.
+10. Stand Alone Tailor Resumes for other Job search sites and company application sites to give you the best chance possible to landing your next role.
+11. Uses AI to assist in Tailoring your Resume. 
+    11a. Finding the most important keywords to exchange on your resume.
+12. Save Login Credentials.
 
-When you downloaded the program you'll notice there was also a setting.ini file....
-In the settings.ini file is where you can make changes based on your use cases...
-Easy Apply Application expects that if your not using customization you already have a ready to use Resume uploaded to dice already.
-IF customization is yes... when applying, Easy Apply Application will generate a Resume (docx, pdf). Coverletters are optional for all modes
-Idle_mode is for cases that might have more then 2 steps for easy apply applications on dice. if its more then 2.. it will skip that tab and move on.
-coverletter mode is optional just uploads what ever coverletter you have.
-resume PDF creates the customized PDF
-coverletter PDF creates
-Working Directory gets updated each time the software runs
-when modifying the locations make sure to use double back slashes.
-Speed... Depends on your system.. if you want Easy Apply Application you need to put a number lower then 1.. Keep in mind each webpage takes
-different amounts of time to load and dice uses containers to control their web pages.
-to double your speed which is not recommended ".5" to go twice as slow "2" each customers system maybe able to handle different speeds.
-At speed "1" you can get through approximally 180 applications an hour on its fastest mode, 50 on its slowest mode.
+I've kept some of my own files just so that you as a user can see what my layout looks like and how simple and dynamic i made this tool.
 
-Easy Apply Application will have a user-interface soon, currently its not up to standards of testing.
-if you have any questions or issues send an email to................
+This tool is Free for a trial version.
+Trial Version allows you to complete 5 runs every 30 mins.
 
+INSTALL:
+The only things you need to do to install this tool is download the package and download Chromium which is an open source version of Google Chrome.
+Chromium Download:
+https://www.googleapis.com/download/storage/v1/b/chromium-browser-snapshots/o/Win_x64%2F1135619%2Fmini_installer.exe?generation=1682469386699488&alt=media
 
+Put the above link in your search bar it will download an installer, once downloaded install Chromium. You dont need to do anything to chromium once installed, 
+Easy-Apply-Bot will find it just dont move chromium any where.
 
+For more information Refer to my Word Document for the setup Guide.
+Setup takes anywhere between 20-40mins. 
+
+Things to know:
+This program does not have a GUI, it is completely reliant on the Settings.INI file for you to make changes to it. 
+There are some small bugs in chromium that usually happen within the first 3-6 applications, it just freezes and you just need to press enter to unfreeze it this is a rare event.
+The fastest time i've seen an application completed start to finish was about 28 seconds. It averages around 37s when doing just docx files, and 55-65 seconds when doing PDF's.
+In 24 hours it is nothing to do 1500 applications. I'm also working on a multi-instance version. 
+You dont need to do anything other then setup for your own job search criteria, nothing more.
