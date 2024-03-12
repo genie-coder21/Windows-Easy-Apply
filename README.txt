@@ -9,23 +9,28 @@ Before you First run there are a few things you need to do...
 Setup is easy and simple... Setup should take no longer then 30 mins, once setup you never have to touch or make changes again.
 
 Features include:
-1. Auto Searching For Jobs based on your list of keywords and phrases
-2. Tailoring resumes, based on job description and skills required.
-    2a. Resumes are tailored based on your skills you've selected.
-3. Tailoring Coverletters based on job description and skills required.
-    3a. Coverletters are tailored based on your skills you've selected.
-4. Headless mode...
-    4a. Run your entire job search in the background. No WebBrowser Visible, so you can continue to use you computer as needed.
-5. Docx to PDF format
-6. Resumes are stored for recall for when you get an interview and need to know what was on the resume you sent the company.
-7. Search Job locations, Remote work, or Specific City.
-8. Search Jobs Based on how old the job posting is.
-  8a. Option include One day, 7 days, and 30 days.
-9. Adding Hiring Managers name to Coverletter if its available.
-10. Stand Alone Tailor Resumes for other Job search sites and company application sites to give you the best chance possible to landing your next role.
-11. Uses AI to assist in Tailoring your Resume. 
-    11a. Finding the most important keywords to exchange on your resume.
-12. Save Login Credentials.
+1. Replaces Lines on your Resume to Tailor specificly to skills in the job description and in the skills list. 
+2. Auto Searching For Jobs based on your list of keywords and phrases
+3. Tailoring resumes, based on job description and skills required.
+    3a. Resumes are tailored based on your skills you've selected.
+4. Tailoring Coverletters based on job description and skills required.
+    4a. Coverletters are tailored based on your skills you've selected.
+5. Headless mode...
+    5a. Run your entire job search in the background. No WebBrowser Visible, so you can continue to use you computer as needed.
+6. Docx to PDF format
+7. Resumes are stored for recall for when you get an interview and need to know what was on the resume you sent the company.
+8. Search Job locations, Remote work, or Specific City.
+9. Search Jobs Based on how old the job posting is.
+  9a. Option include One day, 7 days, and 30 days.
+10. Adding Hiring Managers name to Coverletter if its available.
+11. Stand Alone Tailor Resumes for other Job search sites and company application sites to give you the best chance possible to landing your next role.
+12. Uses AI to assist in Tailoring your Resume. 
+    12a. Finding the most important keywords to exchange on your resume.
+13. Save Login Credentials.
+14. Clean Up Saved Resumes after X amount of days
+15. Create Coverletter Based on "Hard Skill" Matches
+    15a. Hard Skills = skills that you are extremely confident in doing
+    15b. Soft Skills = Skills that you are extremely confident in and also skills your not so confident in but are transferable skills
 
 I've kept some of my own files just so that you as a user can see what my layout looks like and how simple and dynamic i made this tool.
 
