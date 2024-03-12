@@ -1,5 +1,6 @@
 Hi, User.... 
 
+With the current climite 
 This program allows you to automatically easy apply to jobs in as little as 30 seconds all day night and weekend. With no need for monitoring.
 It also can tailor resumes, and coverletters which are optional features.
 Easy Apply Dice Bot is extremely customizable and efficient in completing Easy Apply applications on Dice.com
@@ -27,6 +28,7 @@ Features include:
 12. Uses AI to assist in Tailoring your Resume. 
     12a. Finding the most important keywords to exchange on your resume.
 13. Save Login Credentials.
+    13a. Email and Password save options.
 14. Clean Up Saved Resumes after X amount of days
 15. Create Coverletter Based on "Hard Skill" Matches
     15a. Hard Skills = skills that you are extremely confident in doing
