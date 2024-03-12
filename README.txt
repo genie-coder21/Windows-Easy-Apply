@@ -31,6 +31,8 @@ I've kept some of my own files just so that you as a user can see what my layout
 
 This tool is Free for a trial version.
 Trial Version allows you to complete 5 runs every 30 mins.
+email me for prices and payment options for the full version. 
+botautomatorgene@gmail.com
 
 INSTALL:
 The only things you need to do to install this tool is download the package and download Chromium which is an open source version of Google Chrome.
