@@ -39,6 +39,7 @@ b.	Soft Skills = Skills that you are extremely confident in and also skills your
 
 
 I've kept some of my own files just so that you as a user can see what my layout looks like and how simple and dynamic i made this tool.
+When Downloading Its possible it'll pop up with a false positive on your virus scans. 
 
 This tool is Free for a trial version.
 Trial Version allows you to complete 5 runs every 30 mins.
