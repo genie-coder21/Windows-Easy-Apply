@@ -1,0 +1,23 @@
+{
+    "rest": {
+        "sentence": "Qualified in designing and implementing RESTful web services."
+    },
+    "software deployment": {
+        "sentence": "Proven experience in successfully deploying software applications and ensuring smooth implementation."
+    },
+    "software design": {
+        "sentence": "Adept in designing robust and scalable software solutions that meet functional and non-functional requirements."
+    },
+    "software developer": {
+        "sentence": "Skilled software developer with the ability to design and develop high-quality software solutions."
+    },
+    "software development": {
+        "sentence": "Expert in all stages of the software development life cycle, including requirements analysis, coding, testing, and maintenance."
+    },
+    "yaml": {
+        "sentence": "Well versed in writing and managing YAML configuration files for streamlined application deployment and environment setup."
+    },
+    "zabbix": {
+        "sentence": "Proficient in utilizing Zabbix's monitoring solution to ensure high availability and performance of IT infrastructure."
+    }
+}
